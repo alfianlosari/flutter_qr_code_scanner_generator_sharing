@@ -1,0 +1,22 @@
+name: qr_scanner_generator
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  path_provider: 0.4.1
+  barcode_scan: ^0.0.4
+  qr_flutter: ^1.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+
+
